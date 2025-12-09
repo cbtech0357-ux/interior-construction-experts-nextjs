@@ -6,10 +6,14 @@ import Footer from '../components/Footer'
 export default function Home() {
   return (
     <>
-      <Head>
-        <title>Interior Construction Experts</title>
-        <meta name="description" content="Residential remodeling consulting - Interior Construction Experts" />
-      </Head>
+<Head>
+  <title>Interior Construction Experts — Remodeling Consultants</title>
+  <meta
+    name="description"
+    content="Professional remodeling consulting for homeowners. Get clear pricing, timelines, and contractor reviews before starting your project."
+  />
+</Head>
+
       <Navbar />
       <main>
         <HeroSection />
